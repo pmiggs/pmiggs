@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Miggs!<br/>
+  $${\color{teal}\text{Process Engineer, Programmer}}$$</h1>
+I dedicate this GitHub page to my <b>works in programming</b><br/>
+...ideally engineering works too if not for proprietary considerations 👮
 
-<!--
-**pmiggs/pmiggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Python Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>The Defining College Obstacle: Maze Pathfinder</b>
+  - [Utilizing images of any maze and drawing a path solution](https://github.com/pmiggs/placeholder)
+- <b>Void Defect Detection</b>
+  - [Image analysis of a production line defect](https://github.com/pmiggs/placeholder)
+- <b>Placeholder</b>
+  - [Placeholder](https://github.com/pmiggs/placeholder)
+  - [Placeholder](https://github.com/pmiggs/placeholder)
+  - [Placeholder](https://github.com/pmiggs/placeholder)
+<h2>WIP</h2>
