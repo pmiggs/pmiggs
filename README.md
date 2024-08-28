@@ -6,7 +6,7 @@ I dedicate this GitHub page to my <b>works in programming</b><br/>
 <h2>Python Projects:</h2>
 
 - <b>The Defining College Obstacle: Maze Pathfinder</b>
-  - [Utilizing images of any maze and drawing a path solution](https://github.com/pmiggs/placeholder)
+  - [Utilizing images of any maze and drawing a path solution](https://github.com/pmiggs/Py-Pathfinder)
 - <b>Image Analysis: Void Detection</b>
   - [Image analysis of a production line defect](https://github.com/pmiggs/placeholder)
 - <b>Placeholder</b>
