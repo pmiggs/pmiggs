@@ -3,11 +3,10 @@
 I dedicate this GitHub page to my <b>works in programming</b><br/>
 ...ideally engineering works too if not for proprietary considerations 👮
 
-<h2>Python Projects:</h2>
+<h2>Python Projects (WIP):</h2>
 
 - <b>The Defining College Obstacle: Maze Pathfinder</b>
   - [Utilizing images of any maze and drawing a path solution](https://github.com/pmiggs/Py-Maze_Pathfinder/blob/main/README.md)
 - <b>Physics of Refraction</b>
   - [The behavior of a ray across various refractive media](https://github.com/pmiggs/Py-Refraction/blob/main/README.md)
 
-<h2>WIP</h2>
