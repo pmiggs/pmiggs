@@ -9,5 +9,5 @@ I dedicate this GitHub page to my <b>works in programming</b><br/>
   - [Utilizing images of any maze and drawing a path solution](https://github.com/pmiggs/Py-Maze_Pathfinder/blob/main/README.md)
 - <b>Physics of Refraction</b>
   - [The behavior of a ray across various refractive media](https://github.com/pmiggs/Py-Refraction/blob/main/README.md)
-- <b>My Netflix Trend (DS)</b>
-  - [Python data science on my Netflix watch data](https://github.com/pmiggs/Py-Netflix/blob/main/README.md)
+- <b>Pandas on Production Issue(DS)</b>
+  - [Data Science on a chronic yield issue at work](https://github.com/pmiggs/Py-Pandas-on/blob/main/README.md)
