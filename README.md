@@ -10,4 +10,4 @@ I dedicate this GitHub page to my <b>works in programming</b><br/>
 - <b>Physics of Refraction</b>
   - [The behavior of a ray across various refractive media](https://github.com/pmiggs/Py-Refraction/blob/main/README.md)
 - <b>Pandas on a Production Line Issue (DS)</b>
-  - [Using Data Science on a chronic yield issue at work](https://github.com/pmiggs/Py-Production-Bottleneck/blob/main/README.md)
+  - [Using Data Science on a chronic production yield issue](https://github.com/pmiggs/Py-Production-Bottleneck/blob/main/README.md)
